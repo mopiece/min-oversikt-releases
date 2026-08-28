@@ -1,0 +1,29 @@
+<?xml version="1.0" standalone="yes"?><!-- sparkle-sign-warning:
+IMPORTANT: This file was signed by Sparkle. Any modifications to this file requires re-signing this file with generate_appcast or sign_update! The signed signature will be embedded at the end of this file.
+--><rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+    <channel>
+        <title>Min Oversikt</title>
+        <item>
+            <title>0.2.0</title>
+            <pubDate>Fri, 28 Aug 2026 12:55:36 +0200</pubDate>
+            <link>https://github.com/mopiece/min-oversikt-releases</link>
+            <sparkle:version>2</sparkle:version>
+            <sparkle:shortVersionString>0.2.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+            <description sparkle:format="markdown"><![CDATA[# Min Oversikt 0.2.0
+
+- Samler flere e-postlister fra samme avsender i én ryddig rad som kan utvides.
+- Viser faktisk avsenderadresse, avmeldingsdomene og e-postene som hører til hver liste.
+- Fjerner automatisk og samlet avmelding; hver ett-klikk-forespørsel krever egen kontroll og bekreftelse.
+- Behandler aldri tekst i e-postheadere som bevis på at en avsender er trygg.
+- Markerer de nøyaktig tilhørende e-postene som ulest etter at en avmelding er mottatt.
+- Legger til signerte oppdateringssjekker og tilgang til tidligere publiserte versjoner.
+]]></description>
+            <enclosure url="https://github.com/mopiece/min-oversikt-releases/releases/download/v0.2.0/Min-Oversikt-0.2.0.app.zip" length="2303421" type="application/octet-stream" sparkle:edSignature="xqAbgZAjgetSdhFxiRsKitlbEow5qEH84q55nFARHeF6qkgEfmmyqZhakB6X+pgwrh7OmE5mdo4OCSr3AZz5BQ=="></enclosure>
+        </item>
+    </channel>
+</rss><!-- sparkle-signatures:
+edSignature: GdFloMyFofbMvj6oQDE1MgLLf/xO10VBanwp0Ymxo8dIftPPPMrwn4HYqQ+IoIsIWF+J74WLEqJ8kdq5J8gACg==
+length: 1854
+-->
