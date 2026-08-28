@@ -1,6 +1,8 @@
-<?xml version="1.0" standalone="yes"?><!-- sparkle-sign-warning:
+<?xml version="1.0" standalone="yes"?>
+<!-- sparkle-sign-warning:
 IMPORTANT: This file was signed by Sparkle. Any modifications to this file requires re-signing this file with generate_appcast or sign_update! The signed signature will be embedded at the end of this file.
---><rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+-->
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
     <channel>
         <title>Min Oversikt</title>
         <item>
@@ -20,10 +22,11 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
 - Markerer de nøyaktig tilhørende e-postene som ulest etter at en avmelding er mottatt.
 - Legger til signerte oppdateringssjekker og tilgang til tidligere publiserte versjoner.
 ]]></description>
-            <enclosure url="https://github.com/mopiece/min-oversikt-releases/releases/download/v0.2.0/Min-Oversikt-0.2.0.app.zip" length="2303421" type="application/octet-stream" sparkle:edSignature="xqAbgZAjgetSdhFxiRsKitlbEow5qEH84q55nFARHeF6qkgEfmmyqZhakB6X+pgwrh7OmE5mdo4OCSr3AZz5BQ=="></enclosure>
+            <enclosure url="https://github.com/mopiece/min-oversikt-releases/releases/download/v0.2.0/Min-Oversikt-0.2.0.app.zip" length="2303390" type="application/octet-stream" sparkle:edSignature="gkb/D9S5mQekbZ97h6Y8mqA+PzU/y13TszX0W3F+vFl/UzbcxSvqeavrKJ+bgUSqc5QlrJR6a9/vwP1XfhqhAQ=="/>
         </item>
     </channel>
-</rss><!-- sparkle-signatures:
-edSignature: GdFloMyFofbMvj6oQDE1MgLLf/xO10VBanwp0Ymxo8dIftPPPMrwn4HYqQ+IoIsIWF+J74WLEqJ8kdq5J8gACg==
-length: 1854
+</rss>
+<!-- sparkle-signatures:
+edSignature: ayiggweFENbd6qePBQEBwcVfPcTGsiWin97G3+XyLgZAM969z0vTQ+pUND1Mr8RovvzXkFheVlR7nLSbayg5BQ==
+length: 1846
 -->
