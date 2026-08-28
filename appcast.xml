@@ -6,6 +6,27 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     <channel>
         <title>Min Oversikt</title>
         <item>
+            <title>0.4.0</title>
+            <pubDate>Fri, 28 Aug 2026 22:08:53 +0200</pubDate>
+            <link>https://github.com/mopiece/min-oversikt-releases</link>
+            <sparkle:version>4</sparkle:version>
+            <sparkle:shortVersionString>0.4.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+            <description sparkle:format="markdown"><![CDATA[# Min Oversikt 0.4.0
+
+- Lar deg avslutte alle støttede ett-klikk-lister i én avsenderlinje.
+- Lar deg avslutte alle støttede ett-klikk-lister i hele den gjeldende skanningen, uansett valgt filter.
+- Viser nøyaktig antall og krever en tydelig bekreftelse før en samlet handling starter.
+- Sender forespørslene én etter én og viser ærlig fremdrift og delresultater.
+- Hopper over manuelle, ikke-støttede, allerede sendte og uavklarte lister.
+- Beholder individuell avmelding, separat historikk og markering som lest for hver vellykkede liste.
+- Stopper uten nye nettverkskall hvis historikken ikke kan leses eller lagres.
+- Hindrer ny sending til samme liste når avsenderen roterer avmeldingstokenen eller et tidligere nettverksutfall er uavklart.
+]]></description>
+            <enclosure url="https://github.com/mopiece/min-oversikt-releases/releases/download/v0.4.0/Min-Oversikt-0.4.0.app.zip" length="2338117" type="application/octet-stream" sparkle:edSignature="zbVuu6Itin7sIeYMwNFqJrzSD/Aq6sl60RBQZz8ni2Cfs/Aqcn3X8UqIwbHFJQ2Hk9NogUnImqVSEeAjMwjJDg=="/>
+        </item>
+        <item>
             <title>0.3.0</title>
             <pubDate>Fri, 28 Aug 2026 17:42:43 +0200</pubDate>
             <link>https://github.com/mopiece/min-oversikt-releases</link>
@@ -46,6 +67,6 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     </channel>
 </rss>
 <!-- sparkle-signatures:
-edSignature: oKKsiuug0rFRiJreT8Te7MQ8y/CqCduSozewEFb9RMwcLB12T9U6SW2HizDg0em9tNIJWkYt3dS6HJOzR5GeAA==
-length: 3216
+edSignature: c4xV1SO8QmknDAdAyAdrRI7pCVZgeeGAWZlCH4rC2S+RxSieuM1NXJuVHkI8Fw68B3BlKVe50Cxm1YijMrSPBA==
+length: 4825
 -->
