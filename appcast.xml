@@ -6,6 +6,25 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     <channel>
         <title>Min Oversikt</title>
         <item>
+            <title>0.3.0</title>
+            <pubDate>Fri, 28 Aug 2026 17:42:43 +0200</pubDate>
+            <link>https://github.com/mopiece/min-oversikt-releases</link>
+            <sparkle:version>3</sparkle:version>
+            <sparkle:shortVersionString>0.3.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+            <description sparkle:format="markdown"><![CDATA[# Min Oversikt 0.3.0
+
+- Holder e-post fra ulike avsendere adskilt selv når de bruker samme avmeldingstjeneste.
+- Lar hele avsenderoverskriften åpne og lukke raden, ikke bare den lille pilen.
+- Markerer bare e-postene i listen du avslutter som lest etter at forespørselen er mottatt.
+- Beholder eksplisitt bekreftelse, én liste om gangen og de eksisterende sikkerhetsgrensene.
+- Beholder v0.2-historikken som hindrer at samme avmelding sendes på nytt.
+- Forbedrer signeringen av den innebygde oppdateringsmotoren.
+]]></description>
+            <enclosure url="https://github.com/mopiece/min-oversikt-releases/releases/download/v0.3.0/Min-Oversikt-0.3.0.app.zip" length="2306586" type="application/octet-stream" sparkle:edSignature="N7CgWdrcRoYjvqilF7v2X7pjPN/sPFujY+rbABmazkaJNl3fsJ69B1dH0OKLyWBfMbMIbv4W2cEQTuyOd+9TBQ=="/>
+        </item>
+        <item>
             <title>0.2.0</title>
             <pubDate>Fri, 28 Aug 2026 12:55:36 +0200</pubDate>
             <link>https://github.com/mopiece/min-oversikt-releases</link>
@@ -27,6 +46,6 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     </channel>
 </rss>
 <!-- sparkle-signatures:
-edSignature: ayiggweFENbd6qePBQEBwcVfPcTGsiWin97G3+XyLgZAM969z0vTQ+pUND1Mr8RovvzXkFheVlR7nLSbayg5BQ==
-length: 1846
+edSignature: oKKsiuug0rFRiJreT8Te7MQ8y/CqCduSozewEFb9RMwcLB12T9U6SW2HizDg0em9tNIJWkYt3dS6HJOzR5GeAA==
+length: 3216
 -->
