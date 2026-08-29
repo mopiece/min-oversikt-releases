@@ -6,6 +6,27 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     <channel>
         <title>Min Oversikt</title>
         <item>
+            <title>0.4.2</title>
+            <pubDate>Sat, 29 Aug 2026 16:43:19 +0200</pubDate>
+            <link>https://github.com/mopiece/min-oversikt-releases</link>
+            <sparkle:version>6</sparkle:version>
+            <sparkle:shortVersionString>0.4.2</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+            <description sparkle:format="markdown"><![CDATA[# Min Oversikt 0.4.2
+
+- Rettet en feil som kunne vise 0 sjekkede e-poster og ingen e-postlister selv om perioden inneholdt e-post.
+- Klargjøringen viser nå en horisontal fremdriftslinje, hva appen gjør og hvor mange e-poster som er telt.
+- Under skanningen vises antall sjekkede e-poster av totalt antall.
+- Mappelisten hentes mer effektivt fra Mail.
+- Skanneren bruker en trygg reserve-metode dersom samlet lesing fra Mail mislykkes.
+- Ufullstendige data gir nå en tydelig feil i stedet for et misvisende tomt resultat.
+- Skanningen er fortsatt skrivebeskyttet og endrer ingen e-post.
+
+]]></description>
+            <enclosure url="https://github.com/mopiece/min-oversikt-releases/releases/download/v0.4.2/Min-Oversikt-0.4.2.app.zip" length="2360517" type="application/octet-stream" sparkle:edSignature="ihrNkd+DUP2cGGwmxICWXpQjzxMgwVLuT1KkCi+5P/sJAH5maTG5tIA47usFOF4/3paMhZqbg6Hoxf/DLkCMBw=="/>
+        </item>
+        <item>
             <title>0.4.0</title>
             <pubDate>Fri, 28 Aug 2026 22:08:53 +0200</pubDate>
             <link>https://github.com/mopiece/min-oversikt-releases</link>
@@ -67,6 +88,6 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     </channel>
 </rss>
 <!-- sparkle-signatures:
-edSignature: c4xV1SO8QmknDAdAyAdrRI7pCVZgeeGAWZlCH4rC2S+RxSieuM1NXJuVHkI8Fw68B3BlKVe50Cxm1YijMrSPBA==
-length: 4825
+edSignature: 4yhC4ZKh7wZxACs7pUZ9DgS9hiHEpJ0eEzRTOPiQLF5RWPYLC/LjXbp+7QI/iSkjJ+75qgUEe27yhJhybCEuDA==
+length: 6268
 -->
